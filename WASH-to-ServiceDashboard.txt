@@ -1,0 +1,14 @@
+2. WASH-to-Service Dashboard: From Facility to Utility (WUAF Performance Tracker)Stack: Power BI / Tableau + MySQL + Python (for ETL)
+RCBDIA Pain Point: Prove 95% functionality isn’t luck — it’s a replicable system.What I’ll Build 15-Point WUAF Dashboard (their internal KPI)
+Real-time MySQL backend → Auto-update from field logs
+Drill-down: Zone → Woreda → Kebele → Water Point
+Alert System: Red flag if functionality <90% for 2 months
+
+Key KPIsKPI             Formula                               Target
+Functionality Rate         (Functional WP / Total WP) × 100     ≥95%
+User SatisfactionSurvey score    (1–5)                         ≥4.2
+Tariff Collection            (Collected / Due) × 100           ≥80%
+
+Visual: Sankey flow: Investment → O&M → Sustained Access
+Portfolio Highlight: “Designed the WUAF Utility Dashboard adopted by 9 Wolaita woredas.”
+
